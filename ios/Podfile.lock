@@ -1,0 +1,29 @@
+PODS:
+  - blinkcard_flutter (2.4.0):
+    - Flutter
+    - MBBlinkCard (~> 2.4.0)
+  - Flutter (1.0.0)
+  - MBBlinkCard (2.4.0)
+
+DEPENDENCIES:
+  - blinkcard_flutter (from `.symlinks/plugins/blinkcard_flutter/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - MBBlinkCard
+
+EXTERNAL SOURCES:
+  blinkcard_flutter:
+    :path: ".symlinks/plugins/blinkcard_flutter/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  blinkcard_flutter: 2fa107214a379395aa7577d9e11bb3e8c179d976
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  MBBlinkCard: 85e5438dceb19d11762ab737269e588b9dc48f6f
+
+PODFILE CHECKSUM: 75fb70355c7d254cfc04892e020c476ec5e18674
+
+COCOAPODS: 1.10.1
